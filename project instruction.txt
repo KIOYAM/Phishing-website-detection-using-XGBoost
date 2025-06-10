@@ -1,0 +1,14 @@
+  Yes, you can run the project now. Let's start both the Flask API and the React development server.
+
+Start Development Servers
+
+npm run dev & npm run flask
+The development servers are now running. You can:
+
+Access the web interface at http://localhost:5173
+Test the API at http://localhost:5000
+Load the Chrome extension by:
+Opening Chrome and going to chrome://extensions/
+Enabling "Developer mode"
+Clicking "Load unpacked" and selecting the /extension directory
+You can now scan URLs for phishing attempts using either the web interface or the Chrome extension.
