@@ -1,0 +1,10 @@
+{
+    "threshold": 2.5,
+    "rules": {
+        "url_length": "> 75",
+        "dot_count": "> 3",
+        "has_ip": true,
+        "has_at": true,
+        "has_hyphen": true
+    }
+}
